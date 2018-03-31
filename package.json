@@ -1,0 +1,42 @@
+{
+  "name": "brack3t",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack -d --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlbpro417/brack3t.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlbpro417/brack3t/issues"
+  },
+  "homepage": "https://github.com/mlbpro417/brack3t#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.2",
+    "path": "^0.12.7",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "webpack": "^3.11.0"
+  },
+  "devDependencies": {
+    "babel-loader": "^7.1.3",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "enzyme": "^3.3.0",
+    "eslint": "^4.18.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.7.0",
+    "jest": "^22.4.2",
+    "nodemon": "^1.17.1",
+    "supertest": "^3.0.0"
+  }
+}
