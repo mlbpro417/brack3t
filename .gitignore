@@ -7,8 +7,11 @@
 ehthumbs.db
 Thumbs.db
 
-# API Key #
+# API key #
 api_key.js
 
 # Node modules #
 node_modules
+
+# To do list #
+todo.txt
