@@ -17,8 +17,9 @@
   },
   "homepage": "https://github.com/mlbpro417/brack3t#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "challonge": "^2.1.0",
     "express": "^4.16.2",
+    "jquery": "^3.3.1",
     "path": "^0.12.7",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
